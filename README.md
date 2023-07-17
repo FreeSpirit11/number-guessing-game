@@ -20,7 +20,7 @@ To run the Number Guessing Game, you will need the following:
 
 1. Clone the repository:
    ```shell
-   git clone https://github.com/resole79/number-guessing-game.git
+   git clone https://github.com/FreeSpirit11/number-guessing-game.git
 2. Run the game:
    ```shell
    python number_guessing_game.py
